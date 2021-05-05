@@ -1,2 +1,2 @@
 # colab
-코랩이랑 연동해서 사용하는 레포
+A repository for my colab
